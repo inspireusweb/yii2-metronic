@@ -23,7 +23,7 @@ class Metronic extends \yii\base\Component {
     public static $assetsBundle;
 
     /**
-     * Assets link
+     * Assets link, Need to fix it
      */
     const ASSETS_LINK = __DIR__.'/assets';
 
