@@ -25,7 +25,7 @@ class Metronic extends \yii\base\Component {
     /**
      * Assets link, Need to fix it
      */
-    const ASSETS_LINK = __DIR__.'/assets';
+    const ASSETS_LINK = '/assets';
 
     /**
      * Theme
